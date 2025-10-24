@@ -37,3 +37,5 @@ renew_ssl.sh
 packages.microsoft.gpg
 
 install.sh
+TODO.txt
+run_analysis_before.sh
