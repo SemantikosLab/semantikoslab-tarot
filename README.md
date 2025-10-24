@@ -3,7 +3,7 @@
 
 ---
 
-## 🌌 Présentation
+## Présentation
 
 **SemantikosLab Tarot** est une application de recherche et d’exploration sémantique du Tarot Rider–Waite.  
 Elle relie les **symboles, les textes fondateurs et les archétypes universels** à travers des méthodes issues du **traitement automatique du langage (NLP)** et de l’**analyse de graphes de connaissances**.
@@ -11,12 +11,11 @@ Elle relie les **symboles, les textes fondateurs et les archétypes universels**
 Cette approche vise à étudier le Tarot non comme un outil divinatoire,  
 mais comme un **langage vivant** — un miroir de la pensée humaine, de la mémoire collective et des civilisations.
 
-> *« Entre le mot et le symbole, une cartographie de la conscience se dessine. »*  
-> — *A. Velt, SemantikosLab*
+> *« Entre le mot et le symbole, une cartographie de la civilisation humaine et de la conscience se dessine. »* 
 
 ---
 
-## 🧠 Objectifs du projet
+## Objectifs du projet
 
 - Construire une **base sémantique des 78 cartes du Tarot** (majeures et mineures)  
 - Analyser leurs **liens linguistiques, symboliques et archétypaux**  
