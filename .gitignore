@@ -35,3 +35,5 @@ installation.sh
 run.sh
 renew_ssl.sh
 packages.microsoft.gpg
+
+install.sh

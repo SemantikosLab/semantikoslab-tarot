@@ -1,69 +1,90 @@
-🇫🇷 Le Tarot, un langage vivant
+# 🔮 SemantikosLab Tarot  
+**Analyse sémantique et symbolique du Tarot — à la croisée du langage, des archétypes et de l’intelligence artificielle.**
 
-Une exploration scientifique et symbolique du Tarot à travers le NLP, les graphes de connaissance et la cognition.
+---
 
-Auteur : SemantikosLab — Projet Symboles & Arcanes
+## 🌌 Présentation
 
-Langage : Python 3.9+
-Outils : pandas, numpy, matplotlib, scikit-learn, spacy, sentence-transformers, torch, networkx, umap-learn, streamlit, transformers, joblib, wordcloud, seaborn, pyvis, py2neo, plotly, bertopic
+**SemantikosLab Tarot** est une application de recherche et d’exploration sémantique du Tarot Rider–Waite.  
+Elle relie les **symboles, les textes fondateurs et les archétypes universels** à travers des méthodes issues du **traitement automatique du langage (NLP)** et de l’**analyse de graphes de connaissances**.
 
-Description
+Cette approche vise à étudier le Tarot non comme un outil divinatoire,  
+mais comme un **langage vivant** — un miroir de la pensée humaine, de la mémoire collective et des civilisations.
 
-Ce projet explore le Tarot comme langage vivant, à la croisée du symbolisme, de la cognition et de la data science.
+> *« Entre le mot et le symbole, une cartographie de la conscience se dessine. »*  
+> — *A. Velt, SemantikosLab*
 
-Chaque épisode correspond à une étape d’analyse scientifique :
+---
 
-- Episode 1 : Préparation du corpus & nettoyage textuel
+## 🧠 Objectifs du projet
 
-- Episode 2 : Analyse lexicale & cooccurrences
+- Construire une **base sémantique des 78 cartes du Tarot** (majeures et mineures)  
+- Analyser leurs **liens linguistiques, symboliques et archétypaux**  
+- Explorer la **cohérence entre le Tarot, les textes sacrés et la mythologie**  
+- Expérimenter des **modèles de langage (LLM, embeddings, NLP)** appliqués aux traditions symboliques  
+- Visualiser les relations entre cartes, concepts et émotions via des **graphes interactifs**
 
-- Episode 3 : Cartographie sémantique (embeddings & UMAP)
+---
 
-- Episode 4 : Graphe de connaissances
+## Technologies principales
 
-- Episode 5 : Structure narrative & émotions
+| Domaine | Bibliothèques clés |
+|----------|--------------------|
+| Web App | [Dash](https://dash.plotly.com), [Plotly](https://plotly.com/python/), [Dash Cytoscape](https://dash.plotly.com/cytoscape) |
+| NLP | [spaCy](https://spacy.io), [sentence-transformers](https://www.sbert.net) |
+| Graphes | [NetworkX](https://networkx.org), [PyVis](https://pyvis.readthedocs.io) |
+| Hébergement | Ubuntu 24.04, Nginx, Gunicorn, Certbot |
 
-- Episode 6 : Correspondances interculturelles (I Ching, runes, astrologie)
+---
 
-- Episode 7 : Machine Learning (classification & génération)
+## Installation locale
 
-- Episode 8 : Archétypes jungiens & cognition symbolique
+### 1. Cloner le dépôt
+```bash
+git clone git@github.com:SemantikosLab/semantikoslab-tarot.git
+cd semantikoslab-tarot
+```
 
-- Episode 9 : Validation scientifique & limites
+### 2. Créer un environnement virtuel
+```bash
+python3 -m venv venv
+source venv/bin/activate
+```
 
-- Episode 10 : Synthèse interactive (dashboard Streamlit)
+### 3. Installer les dépendances
+```bash
+pip install -r requirements.txt
+```
 
-🇬🇧 The Tarot, a Living Language
+### 4. Lancer l’application
+```bash
+python app.py
+```
 
-A scientific and symbolic exploration of the Tarot through NLP, knowledge graphs, and cognition.
+L’application sera accessible à l’adresse :
+http://127.0.0.1:8050
 
-Author: SemantikosLab — Symbols & Arcana Project
+### Structure
 
-Language: Python 3.9+
-Stack: pandas, numpy, matplotlib, scikit-learn, spacy, sentence-transformers, torch, networkx, umap-learn, streamlit, transformers, joblib, wordcloud, seaborn, pyvis, py2neo, plotly, bertopic
+semantikoslab-tarot/
+│
+├── app.py                 → Application Dash principale
+├── data/                  → Données textuelles, cartes, métadonnées
+├── assets/                → Feuilles de style, thèmes et scripts
+├── requirements.txt       → Dépendances Python
+├── README.md              → Ce fichier
+└── LICENSE
 
-Description
+### Exemple d’analyse
 
-This project investigates the Tarot as a living language at the intersection of symbolism, cognition, and data science.
+L’application visualise les liens sémantiques entre les cartes du Tarot et leurs descriptions textuelles.
+Chaque carte est intégrée dans un graphe de similarité conceptuelle, où la proximité des nœuds révèle des affinités symboliques.
 
-Each episode maps to a scientific analysis step:
+### Liens connexes
 
-- Episode 1 : Corpus preparation & text cleaning
+https://semantikoslab.amandinevelt.fr/ – portail principal reliant les projets sémantiques
+https://tarot-semantikoslab.amandinevelt.fr/ – application web de ce projet
 
-- Episode 2 : Lexical analysis & co-occurrences
+### Auteure
 
-- Episode 3 : Semantic mapping (embeddings & UMAP)
-
-- Episode 4 : Knowledge graph construction
-
-- Episode 5 : Narrative structure & emotions
-
-- Episode 6 : Cross-cultural correspondences (I Ching, Runes, Astrology)
-
-- Episode 7 : Machine Learning (classification & generation)
-
-- Episode 8 : Jungian archetypes & symbolic cognition
-
-- Episode 9 : Scientific validation & limitations
-
-- Episode 10 : Interactive synthesis (Streamlit dashboard)
+Amandine Velt - SémantikosLab
