@@ -1,0 +1,37 @@
+# Environnements Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers sensibles ou temporaires
+*.log
+*.bak
+*.swp
+.DS_Store
+
+# Certificats / Clés (jamais publics)
+*.pem
+*.crt
+*.key
+
+# Cache Dash / Flask
+.cache/
+.env
+*.db
+
+# Archives / sauvegardes
+*.zip
+*.tar.gz
+*.old
+
+# IDE
+.vscode/
+.idea/
+
+# home script
+installation.sh
+run.sh
+renew_ssl.sh
+packages.microsoft.gpg
