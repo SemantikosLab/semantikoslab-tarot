@@ -32,6 +32,7 @@ navbar = dbc.NavbarSimple(
     brand_style={"fontWeight": "bold", "letterSpacing": "1px"},
     children=[
         dbc.NavItem(dbc.NavLink("Accueil", href="/")),
+        dbc.NavItem(dbc.NavLink("Cartes du Tarot", href="/cards")),
         dbc.NavItem(dbc.NavLink("Analyse sémantique", href="/semantic")),
         dbc.NavItem(dbc.NavLink("Graphe symbolique", href="/graph")),
         dbc.NavItem(dbc.NavLink("Statistiques", href="/stats")),
@@ -72,6 +73,46 @@ home_page = dbc.Container([
                     style={"color": "#6b5c7a", "fontSize": "14px"}),
     ])
 ])
+
+# === PAGE CARTES DU TAROT ===
+cards_page = dbc.Container([
+    html.H3("Tarot Cards Explorer", className="text-center mt-4 mb-4 fw-bold"),
+    dbc.Row([
+        dbc.Col([
+            html.Label("Select a card:", className="fw-bold"),
+            dcc.Dropdown(
+                id="card-dropdown",
+                options=[{"label": n, "value": n} for n in df["name"].unique()],
+                value=df["name"].iloc[0] if not df.empty else None,
+                clearable=False,
+                style={"width": "100%"}
+            ),
+        ], md=4),
+
+        dbc.Col([
+            html.Div(id="card-info", className="p-3 shadow-sm",
+                     style={"backgroundColor": "rgba(255,255,255,0.95)",
+                            "borderRadius": "10px", "minHeight": "250px"})
+        ], md=8),
+    ], className="mt-4")
+])
+
+@app.callback(
+    Output("card-info", "children"),
+    Input("card-dropdown", "value")
+)
+def update_card_info(selected_card):
+    if df.empty or not selected_card:
+        return html.P("No data available.", className="text-muted")
+    card = df[df["name"] == selected_card].iloc[0]
+    return html.Div([
+        html.H4(card["name"], className="fw-bold mb-3"),
+        html.P(card["description"], style={"fontStyle": "italic"}),
+        html.Hr(),
+        html.P(f"Keywords: {card['keyword']}"),
+        html.P(f"Upright: {card['upright_keywords']}"),
+        html.P(f"Reversed: {card['reversed_keywords']}")
+    ])
 
 # === PAGE ANALYSE SÉMANTIQUE ===
 semantic_page = dbc.Container([
@@ -165,10 +206,11 @@ def display_page(pathname):
         return graph_page
     elif pathname == "/stats":
         return stats_page
+    elif pathname == "/cards":
+        return cards_page
     else:
         return home_page
 
 # === LANCEMENT ===
 if __name__ == "__main__":
     app.run_server(host="0.0.0.0", port=8051, debug=False)
-
