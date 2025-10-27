@@ -4,6 +4,7 @@ import plotly.express as px
 import pandas as pd
 import json
 import networkx as nx
+import os
 
 # === CONFIGURATION DE BASE ===
 external_stylesheets = [dbc.themes.ZEPHYR]
@@ -11,9 +12,10 @@ app = Dash(__name__, external_stylesheets=external_stylesheets, suppress_callbac
 server = app.server
 app.title = "Tarot SemantikosLab 🔮"
 
-# === CHARGEMENT DES DONNÉES ===
+# === CHEMINS DES DONNÉES ===
 DATA_PATH = "data/Tarot_Deck_cleaned/tarot_cards_description_cleaned.xlsx"
 GRAPH_PATH = "analysis/outputs/tarot_graph.json"
+IMAGES_DIR = "assets/Cards"
 
 try:
     df = pd.read_excel(DATA_PATH)
@@ -97,6 +99,7 @@ cards_page = dbc.Container([
     ], className="mt-4")
 ])
 
+
 @app.callback(
     Output("card-info", "children"),
     Input("card-dropdown", "value")
@@ -104,14 +107,33 @@ cards_page = dbc.Container([
 def update_card_info(selected_card):
     if df.empty or not selected_card:
         return html.P("No data available.", className="text-muted")
+
     card = df[df["name"] == selected_card].iloc[0]
-    return html.Div([
-        html.H4(card["name"], className="fw-bold mb-3"),
-        html.P(card["description"], style={"fontStyle": "italic"}),
-        html.Hr(),
-        html.P(f"Keywords: {card['keyword']}"),
-        html.P(f"Upright: {card['upright_keywords']}"),
-        html.P(f"Reversed: {card['reversed_keywords']}")
+
+    # 🔹 Nom de fichier et chemin public
+    img_filename = str(card["img"]).strip()
+    img_src = f"/assets/Cards/{img_filename}" if img_filename else None
+
+    # 🔹 Mise en page avec image à gauche
+    return dbc.Row([
+        dbc.Col([
+            html.Img(
+                src=img_src,
+                style={
+                    "maxWidth": "100%",
+                    "borderRadius": "10px",
+                    "boxShadow": "0 2px 6px rgba(0,0,0,0.2)"
+                }
+            ) if img_filename else html.P("Image not found.", className="text-muted")
+        ], md=4),
+        dbc.Col([
+            html.H4(card["name"], className="fw-bold mb-3"),
+            html.P(card["description"], style={"fontStyle": "italic"}),
+            html.Hr(),
+            html.P(f"Keywords: {card['keyword']}"),
+            html.P(f"Upright: {card['upright_keywords']}"),
+            html.P(f"Reversed: {card['reversed_keywords']}")
+        ], md=8)
     ])
 
 # === PAGE ANALYSE SÉMANTIQUE ===
