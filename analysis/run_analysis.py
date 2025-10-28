@@ -40,7 +40,15 @@ STOP_FR_EXTRA = {
     "celles","ceux","celui","celles-ci","ceci","lors","tandis","alors","être",
     "tout","toute","toutes","tous","lorsque","car","par","au","aux","du",
     "de","la","le","un","une","et","ou","se","sa","son","ses","leur","leurs",
-    "elle","il","ils","elles","on","que","qui","quand", "à", "ton", "par", "te"
+    "elle","il","ils","elles","on","que","qui","quand", "à", "ton", "par", "te",
+    "carte","symbolise","évoque","représente","invite","parle","indique",
+    "en","vers","est","c’est","peut","souvent","met","après","tu","incarne","envers"
+}
+
+STOP_EN_EXTRA = {
+    "card","reversed","shows","suggests","indicates","means",
+    "represents","symbolize","bring","warns","message","tells",
+    "this","that","can","often"
 }
 
 def normalize_text(s: str) -> str:
@@ -64,19 +72,41 @@ def gather_corpus(df: pd.DataFrame) -> str:
     return normalize_text(all_text)
 
 def make_wordcloud(text: str, lang_code: str, out_path: Path):
-    sw = set(STOPWORDS)
+    # 1) normalisation légère
+    if not isinstance(text, str):
+        text = ""
+    # normaliser apostrophes typographiques et minuscules
+    text = text.replace("’", "'").lower()
+
+    # 2) contractions spécifiques
     if lang_code.lower() == "fr":
-        sw |= STOP_FR_EXTRA
         # enlever formes contractées FR communes
-        for x in ["d’","l’","qu’","n’","s’","j’","t’","m’","c’"]:
+        for x in ["d'", "l'", "qu'", "n'", "s'", "j'", "t'", "m'", "c'"]:
             text = text.replace(x, " ")
+    else:
+        # enlever le possessif anglais
+        text = text.replace("'s ", " ")
+
+    # 3) stopwords
+    sw = set(STOPWORDS)
+    if lang_code.lower() == "en":
+        sw |= STOP_EN_EXTRA
+    elif lang_code.lower() == "fr":
+        sw |= STOP_FR_EXTRA
+
+    # 4) génération
     wc = WordCloud(
-        width=1600, height=1000,
+        width=1600,
+        height=1000,
         background_color="white",
         stopwords=sw,
-        collocations=True,
-        max_words=300
+        collocations=True,   # conserve certaines bigrammes utiles
+        max_words=300,
+        random_state=42      # reproductible
+        # font_path="assets/DejaVuSans.ttf",  # ← décommente si accents mal rendus
     ).generate(text)
+
+    # 5) export
     wc.to_file(str(out_path))
 
 def process_language(lang_label: str, xlsx_path: Path, out_graph: Path, out_stats: Path, out_wc: Path):
