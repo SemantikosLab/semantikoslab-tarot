@@ -1,0 +1,9201 @@
+{
+  "directed": false,
+  "multigraph": false,
+  "graph": {},
+  "nodes": [
+    {
+      "meaning": "Le Fou symbolise la liberté, la spontanéité et la confiance absolue en la vie. Il avance sans peur, suivant son instinct, prêt à découvrir l’inconnu.",
+      "id": "The Fool"
+    },
+    {
+      "meaning": "Le Magicien incarne la volonté, le pouvoir de création et la maîtrise de soi. Il détient les outils nécessaires pour transformer les idées en réalité.",
+      "id": "The Magician"
+    },
+    {
+      "meaning": "Gardienne du savoir sacré, la Grande Prêtresse incarne l’intuition, le silence intérieur et le mystère. Elle te relie à ta sagesse profonde.",
+      "id": "The High Priestess"
+    },
+    {
+      "meaning": "Symbole de fécondité, d’abondance et de douceur, L’Impératrice est la force nourricière qui fait croître les projets et l’amour.",
+      "id": "The Empress"
+    },
+    {
+      "meaning": "L’Empereur incarne la stabilité, l’ordre et l’autorité bienveillante. Il représente la structure et la force qui protège et organise.",
+      "id": "The Emperor"
+    },
+    {
+      "meaning": "Le Hiérophante relie le spirituel et le terrestre. Il symbolise la tradition, l’enseignement et la transmission du savoir sacré.",
+      "id": "The Hierophant"
+    },
+    {
+      "meaning": "Les Amoureux symbolisent le choix du cœur, l’union et la complémentarité. Ils parlent d’amour sincère, mais aussi de décisions alignées.",
+      "id": "The Lovers"
+    },
+    {
+      "meaning": "Le Chariot incarne la victoire par la volonté et la maîtrise. Il avance avec détermination, guidé par un objectif clair.",
+      "id": "The Chariot"
+    },
+    {
+      "meaning": "La Force symbolise la maîtrise de soi et la puissance du calme. Elle représente la douceur intérieure plus forte que la brutalité.",
+      "id": "Strength"
+    },
+    {
+      "meaning": "L’Hermite chemine seul à la recherche de vérité et de lumière intérieure. Il éclaire son chemin avec sa lanterne de sagesse.",
+      "id": "The Hermit"
+    },
+    {
+      "meaning": "La Roue de Fortune représente les cycles de la vie, le changement et le destin en mouvement. Rien n’est figé : tout évolue constamment.",
+      "id": "The Wheel of Fortune"
+    },
+    {
+      "meaning": "La Justice incarne la vérité, la responsabilité et l’équilibre. Elle t’invite à faire preuve d’honnêteté et à assumer tes choix.",
+      "id": "Justice"
+    },
+    {
+      "meaning": "Suspendu tête en bas, le Pendu symbolise la pause, le lâcher-prise et le changement de perspective. Il invite à voir autrement.",
+      "id": "The Hanged Man"
+    },
+    {
+      "meaning": "La Mort ne parle pas de fin tragique mais de renaissance. Elle symbolise la transformation profonde, la mue nécessaire.",
+      "id": "Death"
+    },
+    {
+      "meaning": "Tempérance est la carte de l’harmonie, de l’équilibre et de la guérison intérieure. Elle invite à la douceur et à la modération.",
+      "id": "Temperance"
+    },
+    {
+      "meaning": "Le Diable révèle les attachements, les dépendances et les illusions du pouvoir. Il met en lumière ce qui nous enchaîne.",
+      "id": "The Devil"
+    },
+    {
+      "meaning": "La Tour symbolise l’effondrement d’une structure fausse ou rigide. Elle détruit l’illusion pour permettre une reconstruction sincère.",
+      "id": "The Tower"
+    },
+    {
+      "meaning": "L’Étoile apporte l’espoir, la guérison et la lumière après l’épreuve. C’est une carte d’inspiration et de paix.",
+      "id": "The Star"
+    },
+    {
+      "meaning": "La Lune symbolise l’intuition, le rêve et les illusions. Elle éclaire doucement les mystères du subconscient.",
+      "id": "The Moon"
+    },
+    {
+      "meaning": "Le Soleil apporte la joie, la vitalité et le succès. Il éclaire le chemin et réchauffe le cœur.",
+      "id": "The Sun"
+    },
+    {
+      "meaning": "Le Jugement évoque l’éveil, la renaissance et la réconciliation avec soi. C’est le moment de se libérer du passé.",
+      "id": "Judgement"
+    },
+    {
+      "meaning": "Le Monde symbolise l’accomplissement, la réussite et l’unité intérieure. C’est la carte de la complétude et de la réalisation.",
+      "id": "The World"
+    },
+    {
+      "meaning": "L’As de Coupes symbolise un nouveau départ émotionnel, l’amour pur, la compassion et l’ouverture du cœur.",
+      "id": "Ace of Cups"
+    },
+    {
+      "meaning": "Le Deux de Coupes évoque l’union, la connexion sincère et l’harmonie entre deux êtres ou deux énergies.",
+      "id": "Two of Cups"
+    },
+    {
+      "meaning": "Le Trois de Coupes représente la joie partagée, la célébration et l’amitié sincère.",
+      "id": "Three of Cups"
+    },
+    {
+      "meaning": "Le Quatre de Coupes symbolise la lassitude émotionnelle, la stagnation et la difficulté à voir les opportunités offertes.",
+      "id": "Four of Cups"
+    },
+    {
+      "meaning": "Le Cinq de Coupes parle de perte, de déception ou de chagrin. Il invite à tourner le regard vers ce qui reste debout.",
+      "id": "Five of Cups"
+    },
+    {
+      "meaning": "Le Six de Coupes évoque la nostalgie, les souvenirs heureux et le retour à la simplicité du cœur.",
+      "id": "Six of Cups"
+    },
+    {
+      "meaning": "Le Sept de Coupes représente les illusions, les rêves multiples et la confusion des désirs.",
+      "id": "Seven of Cups"
+    },
+    {
+      "meaning": "Le Huit de Coupes parle de détachement émotionnel, du besoin de partir pour se retrouver.",
+      "id": "Eight of Cups"
+    },
+    {
+      "meaning": "Le Neuf de Coupes est la carte du contentement et de la satisfaction émotionnelle.",
+      "id": "Nine of Cups"
+    },
+    {
+      "meaning": "Le Dix de Coupes symbolise l’amour durable, la famille et l’harmonie émotionnelle complète.",
+      "id": "Ten of Cups"
+    },
+    {
+      "meaning": "Le Valet de Coupes incarne la sensibilité, la créativité et les débuts d’un élan affectif.",
+      "id": "Page of Cups"
+    },
+    {
+      "meaning": "Le Cavalier de Coupes symbolise le romantisme, le charme et l’invitation au rêve.",
+      "id": "Knight of Cups"
+    },
+    {
+      "meaning": "La Reine de Coupes est l’empathie incarnée. Elle symbolise la bienveillance, la douceur et la sensibilité intuitive.",
+      "id": "Queen of Cups"
+    },
+    {
+      "meaning": "Le Roi de Coupes représente la maîtrise émotionnelle et la sagesse du cœur. Il agit avec compassion et équilibre.",
+      "id": "King of Cups"
+    },
+    {
+      "meaning": "L’As de Bâtons symbolise la naissance d’une inspiration, d’un projet ou d’un élan créatif. C’est l’étincelle initiale de la passion.",
+      "id": "Ace of Wands"
+    },
+    {
+      "meaning": "Le Deux de Bâtons représente la planification, la vision à long terme et la préparation d’un projet.",
+      "id": "Two of Wands"
+    },
+    {
+      "meaning": "Le Trois de Bâtons symbolise la progression et la confiance dans le futur. Tes efforts commencent à porter leurs fruits.",
+      "id": "Three of Wands"
+    },
+    {
+      "meaning": "Le Quatre de Bâtons célèbre la réussite, la stabilité et la joie partagée. C’est une carte d’ancrage et de reconnaissance.",
+      "id": "Four of Wands"
+    },
+    {
+      "meaning": "Le Cinq de Bâtons représente la compétition, les défis et la nécessité d’affirmer sa place.",
+      "id": "Five of Wands"
+    },
+    {
+      "meaning": "Le Six de Bâtons évoque la victoire, la reconnaissance publique et la confiance retrouvée.",
+      "id": "Six of Wands"
+    },
+    {
+      "meaning": "Le Sept de Bâtons symbolise la persévérance et le courage face à la pression extérieure.",
+      "id": "Seven of Wands"
+    },
+    {
+      "meaning": "Le Huit de Bâtons représente la rapidité, le mouvement et les opportunités qui s’enchaînent.",
+      "id": "Eight of Wands"
+    },
+    {
+      "meaning": "Le Neuf de Bâtons évoque la résilience après l’épreuve. Tu es fatigué mais encore debout.",
+      "id": "Nine of Wands"
+    },
+    {
+      "meaning": "Le Dix de Bâtons symbolise le poids des responsabilités et la charge excessive. Il est temps d’alléger ton fardeau.",
+      "id": "Ten of Wands"
+    },
+    {
+      "meaning": "Le Valet de Bâtons incarne la curiosité, l’enthousiasme et la jeunesse d’esprit.",
+      "id": "Page of Wands"
+    },
+    {
+      "meaning": "Le Cavalier de Bâtons est audacieux, énergique et prêt à relever tous les défis.",
+      "id": "Knight of Wands"
+    },
+    {
+      "meaning": "La Reine de Bâtons incarne la chaleur, la confiance et le magnétisme personnel. Elle attire sans forcer.",
+      "id": "Queen of Wands"
+    },
+    {
+      "meaning": "Le Roi de Bâtons représente le leadership visionnaire et la confiance en l’avenir. Il agit avec passion et sagesse.",
+      "id": "King of Wands"
+    },
+    {
+      "meaning": "L’As d’Épées symbolise la clarté mentale, la vérité et le pouvoir de la décision. C’est une révélation ou une idée lumineuse.",
+      "id": "Ace of Swords"
+    },
+    {
+      "meaning": "Le Deux d’Épées représente le doute et l’indécision. Le cœur et la raison s’affrontent.",
+      "id": "Two of Swords"
+    },
+    {
+      "meaning": "Le Trois d’Épées parle de blessure, de chagrin ou de trahison. Il met en lumière la douleur nécessaire à la libération.",
+      "id": "Three of Swords"
+    },
+    {
+      "meaning": "Le Quatre d’Épées évoque le repos, le retrait et la guérison mentale. C’est une pause nécessaire pour se régénérer.",
+      "id": "Four of Swords"
+    },
+    {
+      "meaning": "Le Cinq d’Épées symbolise le conflit, la rivalité ou la trahison. Il met en garde contre les victoires sans valeur.",
+      "id": "Five of Swords"
+    },
+    {
+      "meaning": "Le Six d’Épées parle de transition, de passage vers un apaisement après la tempête.",
+      "id": "Six of Swords"
+    },
+    {
+      "meaning": "Le Sept d’Épées symbolise la ruse, la stratégie et parfois la tromperie. Il invite à agir avec prudence et discernement.",
+      "id": "Seven of Swords"
+    },
+    {
+      "meaning": "Le Huit d’Épées évoque l’enfermement mental et les limitations auto-imposées.",
+      "id": "Eight of Swords"
+    },
+    {
+      "meaning": "Le Neuf d’Épées représente l’angoisse, la culpabilité et les pensées excessives.",
+      "id": "Nine of Swords"
+    },
+    {
+      "meaning": "Le Dix d’Épées symbolise une fin inévitable et souvent douloureuse, mais suivie d’un renouveau.",
+      "id": "Ten of Swords"
+    },
+    {
+      "meaning": "Le Valet d’Épées incarne la curiosité intellectuelle, la vigilance et le désir de vérité.",
+      "id": "Page of Swords"
+    },
+    {
+      "meaning": "Le Cavalier d’Épées fonce droit au but. Il symbolise la détermination, mais aussi la précipitation.",
+      "id": "Knight of Swords"
+    },
+    {
+      "meaning": "La Reine d’Épées incarne la clarté, la vérité et l’indépendance. Elle allie intelligence et franchise.",
+      "id": "Queen of Swords"
+    },
+    {
+      "meaning": "Le Roi d’Épées représente la raison, la maîtrise intellectuelle et la justice. Il agit avec logique et équité.",
+      "id": "King of Swords"
+    },
+    {
+      "meaning": "L’As de Deniers représente une nouvelle opportunité matérielle ou professionnelle. Il annonce la prospérité et la stabilité à venir.",
+      "id": "Ace of Pentacles"
+    },
+    {
+      "meaning": "Le Deux de Deniers symbolise la flexibilité et la gestion équilibrée des priorités. Il parle d’adaptation et de jonglage entre plusieurs aspects de la vie.",
+      "id": "Two of Pentacles"
+    },
+    {
+      "meaning": "Le Trois de Deniers met en valeur la collaboration, l’apprentissage et la reconnaissance du travail bien fait.",
+      "id": "Three of Pentacles"
+    },
+    {
+      "meaning": "Le Quatre de Deniers parle de sécurité matérielle, mais aussi de peur de perdre ou d’attachement excessif.",
+      "id": "Four of Pentacles"
+    },
+    {
+      "meaning": "Le Cinq de Deniers évoque la perte, le manque ou le sentiment d’exclusion, souvent matériel mais parfois aussi affectif.",
+      "id": "Five of Pentacles"
+    },
+    {
+      "meaning": "Le Six de Deniers symbolise l’équilibre entre donner et recevoir. Il évoque la générosité, la solidarité et la gratitude.",
+      "id": "Six of Pentacles"
+    },
+    {
+      "meaning": "Le Sept de Deniers parle de patience et de récolte à venir. Tes efforts commencent à porter leurs fruits.",
+      "id": "Seven of Pentacles"
+    },
+    {
+      "meaning": "Le Huit de Deniers célèbre l’apprentissage, la rigueur et la maîtrise d’un savoir-faire. Il invite à la progression par le travail.",
+      "id": "Eight of Pentacles"
+    },
+    {
+      "meaning": "Le Neuf de Deniers symbolise la réussite personnelle, l’indépendance et la sécurité financière méritée.",
+      "id": "Nine of Pentacles"
+    },
+    {
+      "meaning": "Le Dix de Deniers représente l’héritage, la prospérité familiale et la stabilité à long terme.",
+      "id": "Ten of Pentacles"
+    },
+    {
+      "meaning": "Le Valet de Deniers symbolise la curiosité, l’apprentissage et les débuts d’un projet concret.",
+      "id": "Page of Pentacles"
+    },
+    {
+      "meaning": "Le Cavalier de Deniers incarne la persévérance, la fiabilité et la patience. Il avance lentement mais sûrement.",
+      "id": "Knight of Pentacles"
+    },
+    {
+      "meaning": "La Reine de Deniers incarne la bienveillance, la sécurité et le sens pratique. Elle relie la douceur au confort matériel.",
+      "id": "Queen of Pentacles"
+    },
+    {
+      "meaning": "Le Roi de Deniers représente la réussite matérielle, la stabilité et la sécurité durable. Il incarne la sagesse du bâtisseur.",
+      "id": "King of Pentacles"
+    }
+  ],
+  "links": [
+    {
+      "source": "The Fool",
+      "target": "The Magician"
+    },
+    {
+      "source": "The Fool",
+      "target": "The High Priestess"
+    },
+    {
+      "source": "The Fool",
+      "target": "The Emperor"
+    },
+    {
+      "source": "The Fool",
+      "target": "The Hierophant"
+    },
+    {
+      "source": "The Fool",
+      "target": "The Chariot"
+    },
+    {
+      "source": "The Fool",
+      "target": "Strength"
+    },
+    {
+      "source": "The Fool",
+      "target": "The Hermit"
+    },
+    {
+      "source": "The Fool",
+      "target": "The Wheel of Fortune"
+    },
+    {
+      "source": "The Fool",
+      "target": "Justice"
+    },
+    {
+      "source": "The Fool",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The Fool",
+      "target": "Temperance"
+    },
+    {
+      "source": "The Fool",
+      "target": "The Devil"
+    },
+    {
+      "source": "The Fool",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Fool",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Fool",
+      "target": "The World"
+    },
+    {
+      "source": "The Fool",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Fool",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Fool",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Fool",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Fool",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "The High Priestess"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Empress"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Emperor"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Hierophant"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Lovers"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Chariot"
+    },
+    {
+      "source": "The Magician",
+      "target": "Strength"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Hermit"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Wheel of Fortune"
+    },
+    {
+      "source": "The Magician",
+      "target": "Justice"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The Magician",
+      "target": "Temperance"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Devil"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Star"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Moon"
+    },
+    {
+      "source": "The Magician",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Magician",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Magician",
+      "target": "The World"
+    },
+    {
+      "source": "The Magician",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Eight of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Magician",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Magician",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Magician",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Magician",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "The Emperor"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "The Hierophant"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "The Lovers"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "The Chariot"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Strength"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "The Hermit"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "The Wheel of Fortune"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Justice"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Temperance"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "The Moon"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "The Sun"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Judgement"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The High Priestess",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "The Emperor"
+    },
+    {
+      "source": "The Empress",
+      "target": "The Lovers"
+    },
+    {
+      "source": "The Empress",
+      "target": "Strength"
+    },
+    {
+      "source": "The Empress",
+      "target": "The Hermit"
+    },
+    {
+      "source": "The Empress",
+      "target": "The Wheel of Fortune"
+    },
+    {
+      "source": "The Empress",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The Empress",
+      "target": "Temperance"
+    },
+    {
+      "source": "The Empress",
+      "target": "The Devil"
+    },
+    {
+      "source": "The Empress",
+      "target": "The Star"
+    },
+    {
+      "source": "The Empress",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Empress",
+      "target": "The World"
+    },
+    {
+      "source": "The Empress",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Empress",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Empress",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Empress",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The Empress",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Empress",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Empress",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Emperor",
+      "target": "The Hierophant"
+    },
+    {
+      "source": "The Emperor",
+      "target": "The Chariot"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Strength"
+    },
+    {
+      "source": "The Emperor",
+      "target": "The Hermit"
+    },
+    {
+      "source": "The Emperor",
+      "target": "The Wheel of Fortune"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Justice"
+    },
+    {
+      "source": "The Emperor",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The Emperor",
+      "target": "The Devil"
+    },
+    {
+      "source": "The Emperor",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Emperor",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Emperor",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "The Emperor",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Emperor",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Emperor",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "The Lovers"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "The Chariot"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Strength"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "The Hermit"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "The Wheel of Fortune"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "The Devil"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "The Moon"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "The World"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Hierophant",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Strength"
+    },
+    {
+      "source": "The Lovers",
+      "target": "The Hermit"
+    },
+    {
+      "source": "The Lovers",
+      "target": "The Wheel of Fortune"
+    },
+    {
+      "source": "The Lovers",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Death"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Temperance"
+    },
+    {
+      "source": "The Lovers",
+      "target": "The Star"
+    },
+    {
+      "source": "The Lovers",
+      "target": "The Moon"
+    },
+    {
+      "source": "The Lovers",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Lovers",
+      "target": "The World"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Lovers",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "The Hermit"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Justice"
+    },
+    {
+      "source": "The Chariot",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The Chariot",
+      "target": "The Devil"
+    },
+    {
+      "source": "The Chariot",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Chariot",
+      "target": "The World"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Chariot",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "The Hermit"
+    },
+    {
+      "source": "Strength",
+      "target": "The Wheel of Fortune"
+    },
+    {
+      "source": "Strength",
+      "target": "Justice"
+    },
+    {
+      "source": "Strength",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "Strength",
+      "target": "Death"
+    },
+    {
+      "source": "Strength",
+      "target": "Temperance"
+    },
+    {
+      "source": "Strength",
+      "target": "The Tower"
+    },
+    {
+      "source": "Strength",
+      "target": "The Star"
+    },
+    {
+      "source": "Strength",
+      "target": "The Moon"
+    },
+    {
+      "source": "Strength",
+      "target": "Judgement"
+    },
+    {
+      "source": "Strength",
+      "target": "The World"
+    },
+    {
+      "source": "Strength",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Strength",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Strength",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Strength",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Strength",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Strength",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Strength",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Strength",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Strength",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Strength",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Strength",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "The Wheel of Fortune"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Justice"
+    },
+    {
+      "source": "The Hermit",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Temperance"
+    },
+    {
+      "source": "The Hermit",
+      "target": "The Devil"
+    },
+    {
+      "source": "The Hermit",
+      "target": "The Star"
+    },
+    {
+      "source": "The Hermit",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Hermit",
+      "target": "The World"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "The Hermit",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Hermit",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Justice"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Death"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Temperance"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "The Devil"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "The Star"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "The Moon"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "The World"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Wheel of Fortune",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Justice",
+      "target": "The Hanged Man"
+    },
+    {
+      "source": "Justice",
+      "target": "Death"
+    },
+    {
+      "source": "Justice",
+      "target": "Temperance"
+    },
+    {
+      "source": "Justice",
+      "target": "The Moon"
+    },
+    {
+      "source": "Justice",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "Justice",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "Justice",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Justice",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Justice",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Justice",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Justice",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Justice",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Justice",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Justice",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Justice",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Justice",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Justice",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Justice",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Justice",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Justice",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Justice",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Justice",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Death"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Temperance"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "The Devil"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "The Star"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "The Moon"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "The World"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Hanged Man",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Death",
+      "target": "Temperance"
+    },
+    {
+      "source": "Death",
+      "target": "The Tower"
+    },
+    {
+      "source": "Death",
+      "target": "The Moon"
+    },
+    {
+      "source": "Death",
+      "target": "The World"
+    },
+    {
+      "source": "Death",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "Death",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "Death",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Death",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Death",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "Death",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Death",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Death",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Death",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Death",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Death",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Death",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Death",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Death",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Death",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Death",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Death",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Death",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Death",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Death",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Death",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Death",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Death",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Death",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "The Star"
+    },
+    {
+      "source": "Temperance",
+      "target": "Judgement"
+    },
+    {
+      "source": "Temperance",
+      "target": "The World"
+    },
+    {
+      "source": "Temperance",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Temperance",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Temperance",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Temperance",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Temperance",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Temperance",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Temperance",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Temperance",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Temperance",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Temperance",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Devil",
+      "target": "The Moon"
+    },
+    {
+      "source": "The Devil",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Devil",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Devil",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Devil",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "The Devil",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Devil",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Devil",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Devil",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Devil",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Devil",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Devil",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Devil",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Devil",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "The Devil",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Devil",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Devil",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The Devil",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The Devil",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "The Devil",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The Devil",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Devil",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Devil",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Devil",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Devil",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Devil",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Devil",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Devil",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Tower",
+      "target": "The Moon"
+    },
+    {
+      "source": "The Tower",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Tower",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "The Tower",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Star",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Star",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Star",
+      "target": "The World"
+    },
+    {
+      "source": "The Star",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Star",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Star",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Star",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Star",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The Star",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "The Star",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Star",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Star",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The Moon",
+      "target": "The Sun"
+    },
+    {
+      "source": "The Moon",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Moon",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Moon",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Moon",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Moon",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "The Moon",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The Moon",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Moon",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Moon",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Moon",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Moon",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Moon",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Moon",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The Moon",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "The Moon",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Moon",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Judgement"
+    },
+    {
+      "source": "The Sun",
+      "target": "The World"
+    },
+    {
+      "source": "The Sun",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The Sun",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The Sun",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The Sun",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The Sun",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "The World"
+    },
+    {
+      "source": "Judgement",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Eight of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Judgement",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Judgement",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Judgement",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Judgement",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Ace of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "King of Cups"
+    },
+    {
+      "source": "The World",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "King of Wands"
+    },
+    {
+      "source": "The World",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "King of Swords"
+    },
+    {
+      "source": "The World",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "The World",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Two of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Eight of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Ace of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Three of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Eight of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Two of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Four of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Eight of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Three of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Five of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Eight of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Four of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Six of Cups"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Eight of Cups"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Five of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Seven of Cups"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Eight of Cups"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Six of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Eight of Cups"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Seven of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Nine of Cups"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Eight of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Ten of Cups"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Nine of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Page of Cups"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Ten of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Knight of Cups"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Page of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Queen of Cups"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Knight of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "King of Cups"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Ace of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Queen of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "King of Wands"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "King of Swords"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "King of Cups",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Two of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Ace of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Three of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Two of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Four of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Three of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Five of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Four of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Six of Wands"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Five of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Seven of Wands"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Six of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Eight of Wands"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Seven of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Nine of Wands"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Eight of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Ten of Wands"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Nine of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Page of Wands"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Ten of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Knight of Wands"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Page of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Queen of Wands"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Knight of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "King of Wands"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Queen of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Ace of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "King of Swords"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "King of Wands",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Two of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Ace of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Three of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Two of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Four of Swords"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Three of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Five of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Four of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Six of Swords"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Five of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Seven of Swords"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Six of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Eight of Swords"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Seven of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Eight of Swords",
+      "target": "Nine of Swords"
+    },
+    {
+      "source": "Eight of Swords",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Eight of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Eight of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Eight of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Eight of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Eight of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Ten of Swords"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Nine of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Page of Swords"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Ten of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Knight of Swords"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Queen of Swords"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Page of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Knight of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Queen of Swords",
+      "target": "King of Swords"
+    },
+    {
+      "source": "Queen of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Queen of Swords",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Queen of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "Ace of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "King of Swords",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Two of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Ace of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Three of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Two of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Four of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Three of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "Five of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Four of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Five of Pentacles",
+      "target": "Six of Pentacles"
+    },
+    {
+      "source": "Five of Pentacles",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Five of Pentacles",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Five of Pentacles",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Five of Pentacles",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Five of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Five of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Five of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Five of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Six of Pentacles",
+      "target": "Seven of Pentacles"
+    },
+    {
+      "source": "Six of Pentacles",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Six of Pentacles",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Six of Pentacles",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Six of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Six of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Six of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Six of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Seven of Pentacles",
+      "target": "Eight of Pentacles"
+    },
+    {
+      "source": "Seven of Pentacles",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Seven of Pentacles",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Seven of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Seven of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Seven of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Seven of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Eight of Pentacles",
+      "target": "Nine of Pentacles"
+    },
+    {
+      "source": "Eight of Pentacles",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Eight of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Eight of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Eight of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Eight of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Nine of Pentacles",
+      "target": "Ten of Pentacles"
+    },
+    {
+      "source": "Nine of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Nine of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Nine of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Nine of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Ten of Pentacles",
+      "target": "Page of Pentacles"
+    },
+    {
+      "source": "Ten of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Ten of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Ten of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Page of Pentacles",
+      "target": "Knight of Pentacles"
+    },
+    {
+      "source": "Page of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Page of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Knight of Pentacles",
+      "target": "Queen of Pentacles"
+    },
+    {
+      "source": "Knight of Pentacles",
+      "target": "King of Pentacles"
+    },
+    {
+      "source": "Queen of Pentacles",
+      "target": "King of Pentacles"
+    }
+  ]
+}

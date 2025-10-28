@@ -1,0 +1,12 @@
+{
+  "fr": {
+    "graph": "analysis/outputs/tarot_graph_fr.json",
+    "stats": "analysis/outputs/stats_summary_fr.json",
+    "wordcloud": "assets/wordcloud_fr.png"
+  },
+  "en": {
+    "graph": "analysis/outputs/tarot_graph_en.json",
+    "stats": "analysis/outputs/stats_summary_en.json",
+    "wordcloud": "assets/wordcloud_en.png"
+  }
+}

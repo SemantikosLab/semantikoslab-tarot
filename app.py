@@ -1,4 +1,6 @@
+# app.py
 from dash import Dash, html, dcc, Input, Output
+from dash.exceptions import PreventUpdate
 import dash_bootstrap_components as dbc
 import plotly.express as px
 import pandas as pd
@@ -15,18 +17,16 @@ app.title = "Tarot SemantikosLab 🔮"
 # === CHEMINS DES DONNÉES ===
 DATA_PATH_FR = "data/Tarot_Deck_cleaned/tarot_description_FR.xlsx"
 DATA_PATH_EN = "data/Tarot_Deck_cleaned/tarot_description_EN.xlsx"
-GRAPH_PATH = "analysis/outputs/tarot_graph.json"
-IMAGES_DIR = "assets/Cards"
+GRAPH_PATH_FR = "analysis/outputs/tarot_graph_fr.json"
+GRAPH_PATH_EN = "analysis/outputs/tarot_graph_en.json"
+IMAGES_DIR = "assets/Cards"  # pour les images de cartes
+# Wordclouds générés par analysis/run_analysis.py
+WC_FR = "/assets/wordcloud_fr.png"
+WC_EN = "/assets/wordcloud_en.png"
 
 # === INITIALISATION DES DONNÉES ===
 df = pd.DataFrame()
 G = nx.Graph()
-try:
-    with open(GRAPH_PATH) as f:
-        graph_data = json.load(f)
-        G = nx.node_link_graph(graph_data)
-except Exception as e:
-    print(f"Graphe non disponible : {e}")
 
 # === BARRE DE NAVIGATION MULTILINGUE ===
 def make_navbar(lang="FR"):
@@ -47,7 +47,7 @@ def make_navbar(lang="FR"):
             dbc.NavItem(dbc.NavLink("Statistiques", href="/stats")),
         ]
 
-    # === Dropdown de sélection de langue ===
+    # Dropdown de sélection de langue
     lang_dropdown = dbc.DropdownMenu(
         label="🇫🇷 Français" if lang == "FR" else "🇬🇧 English",
         children=[
@@ -103,7 +103,7 @@ def make_home_page(lang="FR"):
         ])
     ])
 
-# === AUTRES PAGES ===
+# === PAGES ===
 def make_cards_page(df, lang="FR"):
     label = "Sélectionner une carte :" if lang == "FR" else "Select a card:"
     return dbc.Container([
@@ -155,19 +155,66 @@ graph_page = dbc.Container([
     dcc.Graph(id="network-graph", className="fade-in"),
 ])
 
+def wordcloud_card(lang="FR"):
+    src = WC_EN if lang == "EN" else WC_FR
+    title = "Wordcloud (English corpus)" if lang == "EN" else "Nuage de mots (corpus français)"
+    return dbc.Card(
+        dbc.CardBody([
+            html.H5(title, className="mb-3 fw-bold"),
+            html.Img(src=src, alt=title,
+                     style={"maxWidth": "100%", "borderRadius": "10px",
+                            "boxShadow": "0 2px 6px rgba(0,0,0,0.15)"})
+        ]),
+        className="shadow-sm fade-in",
+        style={"backgroundColor": "rgba(255,255,255,0.92)", "borderRadius": "14px"}
+    )
+
 def make_stats_page(df, lang="FR"):
     title = "Statistiques globales" if lang == "FR" else "Global Statistics"
     desc = "Distribution de la longueur des descriptions :" if lang == "FR" else "Distribution of description lengths:"
+
+    # Longueurs propres
+    if df.empty or "description" not in df.columns:
+        desc_len = pd.Series([], dtype=int)
+    else:
+        desc_len = df["description"].fillna("").astype(str).str.len()
+
+    hist_fig = px.histogram(
+        x=desc_len,
+        nbins=30,
+        labels={"x": "Description length"},
+        color_discrete_sequence=["#a29bfe"]
+    )
+    hist_fig.update_layout(
+        template="plotly_dark",
+        autosize=True,             # laisse Plotly gérer la largeur
+        height=420,                # ✅ hauteur fixe
+        margin=dict(l=40, r=20, t=50, b=40),
+        xaxis_title=None,
+        yaxis_title=None
+    )
+
     return dbc.Container([
         html.H3(title, className="text-center mt-4 mb-4 fw-bold fade-in"),
-        html.P(desc, className="mb-3 fade-in"),
-        dcc.Graph(
-            figure=px.histogram(
-                df, x=df["description"].str.len(),
-                nbins=30, color_discrete_sequence=["#a29bfe"]
-            ).update_layout(template="plotly_dark"),
-            className="fade-in"
-        )
+        dbc.Row([
+            dbc.Col([
+                html.P(desc, className="mb-3 fade-in"),
+                dcc.Graph(
+                    figure=hist_fig,
+                    className="fade-in",
+                    config={"responsive": True},
+                    style={
+                        "height": "420px",     # ✅ fixe aussi côté composant
+                        "width": "100%",
+                        "maxWidth": "100%",
+                        "overflow": "hidden"   # évite tout débordement
+                    }
+                )
+            ], md=6),
+            dbc.Col([
+                wordcloud_card(lang)
+            ], md=6),
+        ], className="g-4")
     ])
 
 # === CALLBACKS ===
@@ -180,7 +227,7 @@ def update_card_info(selected_card):
         return html.P("Aucune donnée disponible / No data available.", className="text-muted fade-in")
 
     card = df[df["card"] == selected_card].iloc[0]
-    img_filename = str(card["img"]).strip()
+    img_filename = str(card.get("img", "")).strip()
     img_src = f"/assets/Cards/{img_filename}" if img_filename else None
 
     return dbc.Row([
@@ -194,9 +241,9 @@ def update_card_info(selected_card):
             html.H4(card["card"], className="fw-bold mb-3 fade-in"),
             html.P(card["description"], style={"fontStyle": "italic"}),
             html.Hr(),
-            html.P(f"Keywords: {card['keywords_general']}"),
-            html.P(f"Upright: {card['keywords_upright']}"),
-            html.P(f"Reversed: {card['keywords_reversed']}")
+            html.P(f"Keywords: {card.get('keywords_general','')}"),
+            html.P(f"Upright: {card.get('keywords_upright','')}"),
+            html.P(f"Reversed: {card.get('keywords_reversed','')}")
         ], md=8)
     ])
 
@@ -209,9 +256,14 @@ def update_semantic_graph(selected_card, min_len):
     if df.empty:
         return {}
     subset = df[df["description"].str.len() > min_len]
-    fig = px.scatter(subset, x=range(len(subset)), y=subset["description"].str.len(),
-                     hover_name=subset["card"], color=subset["card"] == selected_card,
-                     color_discrete_sequence=["#a29bfe", "#ffeaa7"])
+    fig = px.scatter(
+        subset,
+        x=range(len(subset)),
+        y=subset["description"].str.len(),
+        hover_name=subset["card"],
+        color=subset["card"] == selected_card,
+        color_discrete_sequence=["#a29bfe", "#ffeaa7"]
+    )
     fig.update_layout(template="plotly_dark", title=f"Analyse : {selected_card}")
     return fig
 
@@ -246,9 +298,9 @@ def display_graph(_):
 def set_language(fr_click, en_click):
     if fr_click:
         return "FR"
-    elif en_click:
+    if en_click:
         return "EN"
-    raise dash.exceptions.PreventUpdate  # ✅ ne rien faire si aucun clic
+    raise PreventUpdate  # ne rien faire si aucun clic
 
 # === ROUTAGE DES PAGES ===
 @app.callback(
@@ -258,18 +310,28 @@ def set_language(fr_click, en_click):
     Input("language-store", "data")
 )
 def display_page(pathname, lang):
-    global df
+    global df, G
 
-    # ✅ NE PAS repasser en FR si 'lang' est None
-    # on attend que le store soit prêt
+    # attendre que le store soit prêt
     if lang not in ["FR", "EN"]:
-        raise dash.exceptions.PreventUpdate
+        raise PreventUpdate
 
+    # Charger le bon DataFrame selon la langue
     try:
         df = pd.read_excel(DATA_PATH_EN if lang == "EN" else DATA_PATH_FR)
     except Exception as e:
-        print(f"Erreur de chargement : {e}")
+        print(f"Erreur de chargement Excel : {e}")
         df = pd.DataFrame()
+
+    # Charger le bon graphe selon la langue
+    graph_path = GRAPH_PATH_EN if lang == "EN" else GRAPH_PATH_FR
+    try:
+        with open(graph_path, encoding="utf-8") as f:
+            graph_data = json.load(f)
+            G = nx.node_link_graph(graph_data)
+    except Exception as e:
+        print(f"Erreur de chargement du graphe {graph_path} : {e}")
+        G = nx.Graph()
 
     navbar = make_navbar(lang)
 

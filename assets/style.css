@@ -104,3 +104,7 @@ footer {
   }
 }
 
+/* assets/style.css */
+.js-plotly-plot, .dash-graph {
+  max-width: 100% !important;
+}
