@@ -130,9 +130,9 @@ def update_card_info(selected_card):
             html.H4(card["card"], className="fw-bold mb-3"),
             html.P(card["description"], style={"fontStyle": "italic"}),
             html.Hr(),
-            html.P(f"Keywords: {card['keyword']}"),
-            html.P(f"Upright: {card['upright_keywords']}"),
-            html.P(f"Reversed: {card['reversed_keywords']}")
+            html.P(f"Keywords: {card['keywords_general']}"),
+            html.P(f"Upright: {card['keywords_upright']}"),
+            html.P(f"Reversed: {card['keywords_reversed']}")
         ], md=8)
     ])
 
@@ -166,8 +166,8 @@ semantic_page = dbc.Container([
 def update_semantic_graph(selected_card, min_len):
     if df.empty:
         return {}
-    subset = df[df["summary_text"].str.len() > min_len]
-    fig = px.scatter(subset, x=range(len(subset)), y=subset["summary_text"].str.len(),
+    subset = df[df["description"].str.len() > min_len]
+    fig = px.scatter(subset, x=range(len(subset)), y=subset["description"].str.len(),
                      hover_name=subset["card"], color=subset["card"] == selected_card,
                      color_discrete_sequence=["#a29bfe", "#ffeaa7"])
     fig.update_layout(template="plotly_dark", title=f"Analyse sémantique : {selected_card}")
@@ -206,7 +206,7 @@ stats_page = dbc.Container([
     html.P("Distribution de la longueur des descriptions des cartes :", className="mb-3"),
     dcc.Graph(
         figure=px.histogram(
-            df, x=df["summary_text"].str.len(),
+            df, x=df["description"].str.len(),
             nbins=30, title="Longueur des descriptions (caractères)",
             color_discrete_sequence=["#a29bfe"]
         ).update_layout(template="plotly_dark")

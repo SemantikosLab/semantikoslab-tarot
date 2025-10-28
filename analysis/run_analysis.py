@@ -4,7 +4,7 @@ import pandas as pd
 import json
 from semantic_utils import build_graph, compute_embeddings
 
-INPUT = "../data/Tarot_Deck_cleaned/tarot_cards_description_cleaned.xlsx"
+INPUT = "../data/Tarot_Deck_cleaned/tarot_description_FR.xlsx"
 OUTPUT_GRAPH = "outputs/tarot_graph.json"
 OUTPUT_STATS = "outputs/stats_summary.json"
 
