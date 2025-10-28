@@ -13,7 +13,7 @@ server = app.server
 app.title = "Tarot SemantikosLab 🔮"
 
 # === CHEMINS DES DONNÉES ===
-DATA_PATH = "data/Tarot_Deck_cleaned/tarot_cards_description_cleaned.xlsx"
+DATA_PATH = "data/Tarot_Deck_cleaned/tarot_description_FR.xlsx"
 GRAPH_PATH = "analysis/outputs/tarot_graph.json"
 IMAGES_DIR = "assets/Cards"
 
@@ -84,8 +84,8 @@ cards_page = dbc.Container([
             html.Label("Select a card:", className="fw-bold"),
             dcc.Dropdown(
                 id="card-dropdown",
-                options=[{"label": n, "value": n} for n in df["name"].unique()],
-                value=df["name"].iloc[0] if not df.empty else None,
+                options=[{"label": n, "value": n} for n in df["card"].unique()],
+                value=df["card"].iloc[0] if not df.empty else None,
                 clearable=False,
                 style={"width": "100%"}
             ),
@@ -108,7 +108,7 @@ def update_card_info(selected_card):
     if df.empty or not selected_card:
         return html.P("No data available.", className="text-muted")
 
-    card = df[df["name"] == selected_card].iloc[0]
+    card = df[df["card"] == selected_card].iloc[0]
 
     # 🔹 Nom de fichier et chemin public
     img_filename = str(card["img"]).strip()
@@ -127,7 +127,7 @@ def update_card_info(selected_card):
             ) if img_filename else html.P("Image not found.", className="text-muted")
         ], md=4),
         dbc.Col([
-            html.H4(card["name"], className="fw-bold mb-3"),
+            html.H4(card["card"], className="fw-bold mb-3"),
             html.P(card["description"], style={"fontStyle": "italic"}),
             html.Hr(),
             html.P(f"Keywords: {card['keyword']}"),
@@ -144,8 +144,8 @@ semantic_page = dbc.Container([
             html.Label("Choisir une carte :"),
             dcc.Dropdown(
                 id="card-select",
-                options=[{"label": c, "value": c} for c in df["name"].unique()],
-                value=df["name"].iloc[0] if not df.empty else None
+                options=[{"label": c, "value": c} for c in df["card"].unique()],
+                value=df["card"].iloc[0] if not df.empty else None
             ),
             html.Br(),
             html.Label("Filtrer par longueur minimale :"),
@@ -168,7 +168,7 @@ def update_semantic_graph(selected_card, min_len):
         return {}
     subset = df[df["summary_text"].str.len() > min_len]
     fig = px.scatter(subset, x=range(len(subset)), y=subset["summary_text"].str.len(),
-                     hover_name=subset["name"], color=subset["name"] == selected_card,
+                     hover_name=subset["card"], color=subset["card"] == selected_card,
                      color_discrete_sequence=["#a29bfe", "#ffeaa7"])
     fig.update_layout(template="plotly_dark", title=f"Analyse sémantique : {selected_card}")
     return fig
